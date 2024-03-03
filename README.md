@@ -20,3 +20,6 @@ Data consistency: Changes to user profiles after registration can cause unexpect
 
 
 Implement solution using the Builder Pattern to address the issue.
+
+# UML Diagram
+![image](https://github.com/neoalaricv/builderPattern/assets/142380105/b32df2d3-041f-43f9-8803-cfcce731d372)
